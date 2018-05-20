@@ -1,0 +1,24 @@
+NoLand null 0 0 0 0 0 0 0 0 0 0
+TheEmbatcadero white 210 17 85 240 475 670 1025 1525 100 105
+FishermansWharf white 250 21 105 320 780 950 1125 1625 100 125
+TelephoneCompany utility 150 0 0 0 0 0 0 0 0 75
+NoLand null 0 0 0 0 0 0 0 0 0 0
+BeaconStreet black 330 30 160 470 1050 1250 1500 2500 200 165
+NoLand null 0 0 0 0 0 0 0 0 0 0
+BoylstonStreet black 330 30 160 470 1050 1250 1500 2500 200 165
+NewBuryStreet black 380 40 185 550 1200 1500 1700 2700 200 190
+NoLand null 0 0 0 0 0 0 0 0 0 0
+FifthAvenue gray 430 60 220 650 1500 1800 2100 3600 300 215
+MadisonAvenue gray 430 430 60 220 650 1500 1800 2100 3600 300 215
+NoLand null 0 0 0 0 0 0 0 0 0 0
+WallStreet gray 500 80 300 800 1800 2200 2700 4200 300 250
+NoLand null 0 0 0 0 0 0 0 0 0 0
+GasCompany utility 150 0 0 0 0 0 0 0 0 75
+NoLand null 0 0 0 0 0 0 0 0 0 0
+FloridaAvenue brown 130 9 45 120 350 500 700 1200 50 60
+NoLand null 0 0 0 0 0 0 0 0 0 0
+MiamiAvenue brown 130 9 45 120 350 500 700 1200 50 60
+BiscayneAvenue brown 150 11 55 160 475 650 800 1300 50 75
+NoLand null 0 0 0 0 0 0 0 0 0 0
+NoLand null 0 0 0 0 0 0 0 0 0 0
+LombardStreet white 210 17 85 240 475 670 1025 1525 100 105

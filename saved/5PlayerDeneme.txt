@@ -1,0 +1,25 @@
+PlayerCount 5
+Player1 1360 BLUE 2 11
+Player2 1380 YELLOW 1 12
+Player3 1320 RED 1 9
+Player4 1500 GREEN 2 0
+Player5 1500 PINK 2 0
+Player1 2 11 0 0 0 0 0 
+Player2 1 12 0 0 0 0 0 
+Player3 1 8 0 0 0 0 0 1 9 0 0 0 0 0 
+Player4 
+Player5 
+Player1 
+Player2 
+Player3 
+Player4 
+Player5
+Player1 AcmeMotors 2
+Player2
+Player3
+Player4
+Player5
+3
+100
+RegularDice 
+SpeedDie 

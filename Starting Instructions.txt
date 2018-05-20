@@ -1,0 +1,19 @@
+PlayerCount 4
+Player1 1500 BLUE 2 0
+Player2 1500 YELLOW 2 0
+Player3 1500 RED 2 0
+Player4 1500 GREEN 2 0
+Player1 
+Player2
+Player3
+Player4
+Player1  
+Player2 
+Player3 
+Player4
+Player1 GenRadio 2
+Player2 MotionPictures 1
+Player3
+Player4
+RegularDice 3 4
+SpeedDie bus

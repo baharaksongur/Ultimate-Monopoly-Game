@@ -1,0 +1,37 @@
+PlayerCount 8
+Player1 990 BLUE 1 33
+Player2 1410 YELLOW 1 9
+Player3 1170 RED 1 19
+Player4 1181 GREEN 1 28
+Player5 1500 GREEN 1 15
+Player6 1370 GREEN 3 19
+Player7 1140 GREEN 1 23
+Player8 1489 GREEN 1 17
+Player1 2 11 0 0 0 0 0 2 13 0 0 0 0 0 1 13 0 0 0 0 0 1 25 0 0 0 0 0 1 33 0 0 0 0 0 
+Player2 1 9 0 0 0 0 0 
+Player3 1 18 0 0 0 0 0 1 19 0 0 0 0 0 
+Player4 1 17 0 0 0 0 0 1 20 0 0 0 0 0 
+Player5 
+Player6 3 19 0 0 0 0 0 
+Player7 1 16 0 0 0 0 0 1 23 0 0 0 0 0 
+Player8 
+Player1 
+Player2 
+Player3 
+Player4 
+Player5 
+Player6 
+Player7 
+Player8 
+Player1 AcmeMotors 2
+Player2
+Player3
+Player4
+Player5
+Player6
+Player7
+Player8
+1
+0
+RegularDice 
+SpeedDie 
